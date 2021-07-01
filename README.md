@@ -7,7 +7,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello there!, I am
+        <samp>&gt; Hello there! I am
                 <b><a target="_blank" href="https://emon.com.bd/">MD. Imran Nazir</a></b>
         </samp>
 </h3>
