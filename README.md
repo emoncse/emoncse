@@ -47,6 +47,11 @@
         <a href="https://github.com/emoncse?tab=repositories" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
+        </a>
+        <!-- Go -->
+        <a href="https://github.com/emoncse?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-Go-9b3675?style=flat-square&logo=Go%2B%2B&logoColor=white">
+        </a>
 </p>
 
 <!-- Details Section-->
