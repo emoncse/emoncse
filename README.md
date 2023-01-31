@@ -18,7 +18,9 @@
         <samp>
                 「 From Dhaka, Bangladesh 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 Software Engineer (Backend) @<b> JBC Corp.</b> 」
+                <br>
+                「 B.Sc (Engg), Computer Science & Engineering @<b> University of Asia Pacific</b> 」
                 <br>
                 <br>
         </samp>
