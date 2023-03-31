@@ -18,7 +18,7 @@
         <samp>
                 「 From Dhaka, Bangladesh 」
                 <br>
-                「 Software Engineer (Backend) @<b> JBC Corp.</b> 」
+                「 Software Engineer (Backend) @<b> Eigooo Inc.</b> 」
                 <br>
                 「 B.Sc (Engg), Computer Science & Engineering @<b> University of Asia Pacific</b> 」
                 <br>
