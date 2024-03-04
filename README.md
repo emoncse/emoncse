@@ -3,7 +3,7 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/emoncse?v=3)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Intro  -->
 <h3 align="center">
