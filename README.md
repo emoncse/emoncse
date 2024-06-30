@@ -104,8 +104,8 @@
 
 <div id="badges" align="center">
   <a><img src="https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg" alt="stats chip"></a>
-  <a><img src="https://img.shields.io/github/stars/IMZihad21?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" alt="stats chip"></a>
-  <a><img src="https://img.shields.io/github/sponsors/IMZihad21?label=GH%20sponsors&style=flat" alt="stats chip"></a>
+  <a><img src="https://img.shields.io/github/stars/emoncse?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" alt="stats chip"></a>
+  <a><img src="https://img.shields.io/github/sponsors/emoncse?label=GH%20sponsors&style=flat" alt="stats chip"></a>
 </div>
 
 <div id="os-ide" align="center">
