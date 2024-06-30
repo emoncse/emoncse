@@ -117,8 +117,8 @@
 
 <div id="contact" align="center">
   <a href="mailto:imran.uapcse@gmail.com"><img src="https://img.shields.io/badge/Email-imran.uapcse@gmail.com-orangered?style=flat-square&logo=gmail" alt="stats chip"></a>
-  <a href="https://t.me/emoncse"><img src="https://img.shields.io/badge/Telegram-IMZihad21-royalblue?style=flat-square&logo=telegram" alt="stats chip"></a>
-  <a href="https://gist.github.com/emoncse"><img src="https://img.shields.io/badge/Gist-IMZihad21-aliceblue?style=flat-square&logo=GitHub" alt="stats chip"></a>
+  <a href="https://t.me/emoncse"><img src="https://img.shields.io/badge/Telegram-emoncse-royalblue?style=flat-square&logo=telegram" alt="stats chip"></a>
+  <a href="https://gist.github.com/emoncse"><img src="https://img.shields.io/badge/Gist-emoncse-aliceblue?style=flat-square&logo=GitHub" alt="stats chip"></a>
 </div>
 
 <div id="stats" align="center">
