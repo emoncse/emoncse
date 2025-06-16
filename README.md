@@ -71,9 +71,7 @@
 
 
 ### 👁️‍🗨️ Visitor Count
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/emoncse/count.svg)
-</p>
+![Visitor Count](https://profile-counter.glitch.me/emoncse/count.svg)
 
 <p align="center">
   <samp>“Passion fuels innovation — keep building, keep sharing.”</samp>  
