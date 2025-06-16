@@ -10,7 +10,7 @@
   <a href="https://t.me/emoncse"><img src="https://img.shields.io/badge/Telegram-@emoncse-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-### 👨‍💻 About Me
+
 ```yaml
   💼 Software Engineer
   🎓 CSE Graduate from University of Asia Pacific
@@ -19,7 +19,6 @@
   🔍 Exploring ML Ops & Cloud-native DevOps
 ```
 
-### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,go,js,java,android" />
 </p>
