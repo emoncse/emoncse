@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 ```yaml
-  💼 Backend Engineer @ Eigooo Inc.
+  💼 Software Engineer
   🎓 CSE Graduate from University of Asia Pacific
   🌍 Based in Dhaka, Bangladesh
   🛠️ Passionate about scalable architecture and automation
