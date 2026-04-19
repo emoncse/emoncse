@@ -1,86 +1,101 @@
-<!-- Imran Nazir Emon — GitHub Profile README -->
-<div align="center">
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E94D5F&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Imran+Nazir+Emon!;Backend+Engineer+%7C+DevOps+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-# Imran Nazir Emon
-
-**Backend Engineer · DevOps Enthusiast · Lifelong Learner**
-
-[![Website](https://img.shields.io/badge/emon.com.bd-000?style=flat-square&logo=google-chrome&logoColor=white)](https://emon.com.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emoncse)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imran.uapcse@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/emoncse)
-
-</div>
-
----
-
-## About
+<p align="center">
+  <a href="https://emon.com.bd"><img src="https://img.shields.io/badge/Website-emon.com.bd-blueviolet?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/emoncse"><img src="https://img.shields.io/badge/LinkedIn-Imran_Nazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imran.uapcse@gmail.com"><img src="https://img.shields.io/badge/Gmail-imran.uapcse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/emoncse"><img src="https://img.shields.io/badge/Telegram-@emoncse-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 ```yaml
-role:      Software Engineer
-location:  Dhaka, Bangladesh
-education: CSE · University of Asia Pacific
-focus:     Scalable architecture & backend systems
-exploring: MLOps · Cloud-native DevOps
+  💼 Role:      Software Engineer
+  🎓 Education: CSE · University of Asia Pacific
+  🌍 Location:  Dhaka, Bangladesh
+  🛠️ Passion:   Scalable architecture & automation
+  🔍 Exploring: MLOps · Cloud-native DevOps
 ```
 
----
+### 🧑‍💻 Languages
 
-## Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### 🚀 Frameworks & Platforms
 
-**Frameworks & Platforms**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+</p>
 
-**DevOps & Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### ⚙️ DevOps & Infrastructure
 
-**Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
 
----
+### ☁️ Cloud
 
-## GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emoncse&show_icons=true&theme=default&hide=prs&hide_border=true&bg_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emoncse&theme=default&hide_border=true&background=ffffff" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emoncse&theme=default" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emoncse&theme=default" width="48%" />
-</div>
+### GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emoncse&show_icons=true&theme=tokyonight&hide=prs&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emoncse&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
-## Coding Time
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emoncse&theme=tokyonight" width="98%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emoncse&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emoncse&theme=tokyonight" width="49%" />
+</p>
+
+### ⏱️ Coding Time
+
+<p align="center">
   <img src="https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg" />
-</div>
+</p>
 
----
 
-<div align="center">
-  <sub>"Passion fuels innovation — keep building, keep sharing."</sub>
-</div>
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:imran.uapcse@gmail.com"><img src="https://img.shields.io/badge/Email-imran.uapcse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/emoncse"><img src="https://img.shields.io/badge/Telegram-emoncse-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://gist.github.com/emoncse"><img src="https://img.shields.io/badge/Gist-emoncse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <samp>"Passion fuels innovation — keep building, keep sharing."</samp>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer" />
+</p>
